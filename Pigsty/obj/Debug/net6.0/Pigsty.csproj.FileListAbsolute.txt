@@ -1,0 +1,12 @@
+E:\Projekty\Pigsty\Pigsty\bin\Debug\net6.0\Pigsty.deps.json
+E:\Projekty\Pigsty\Pigsty\bin\Debug\net6.0\Pigsty.dll
+E:\Projekty\Pigsty\Pigsty\bin\Debug\net6.0\Pigsty.pdb
+E:\Projekty\Pigsty\Pigsty\obj\Debug\net6.0\Pigsty.csproj.AssemblyReference.cache
+E:\Projekty\Pigsty\Pigsty\obj\Debug\net6.0\Pigsty.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekty\Pigsty\Pigsty\obj\Debug\net6.0\Pigsty.AssemblyInfoInputs.cache
+E:\Projekty\Pigsty\Pigsty\obj\Debug\net6.0\Pigsty.AssemblyInfo.cs
+E:\Projekty\Pigsty\Pigsty\obj\Debug\net6.0\Pigsty.csproj.CoreCompileInputs.cache
+E:\Projekty\Pigsty\Pigsty\obj\Debug\net6.0\Pigsty.dll
+E:\Projekty\Pigsty\Pigsty\obj\Debug\net6.0\refint\Pigsty.dll
+E:\Projekty\Pigsty\Pigsty\obj\Debug\net6.0\Pigsty.pdb
+E:\Projekty\Pigsty\Pigsty\obj\Debug\net6.0\ref\Pigsty.dll

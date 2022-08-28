@@ -1,0 +1,12 @@
+E:\Projekty\PiggySoftwareSolutions\PiggySoftwareSolutions.Common\bin\Debug\net6.0\PiggySoftwareSolutions.Common.deps.json
+E:\Projekty\PiggySoftwareSolutions\PiggySoftwareSolutions.Common\bin\Debug\net6.0\PiggySoftwareSolutions.Common.dll
+E:\Projekty\PiggySoftwareSolutions\PiggySoftwareSolutions.Common\bin\Debug\net6.0\PiggySoftwareSolutions.Common.pdb
+E:\Projekty\PiggySoftwareSolutions\PiggySoftwareSolutions.Common\obj\Debug\net6.0\PiggySoftwareSolutions.Common.csproj.AssemblyReference.cache
+E:\Projekty\PiggySoftwareSolutions\PiggySoftwareSolutions.Common\obj\Debug\net6.0\PiggySoftwareSolutions.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekty\PiggySoftwareSolutions\PiggySoftwareSolutions.Common\obj\Debug\net6.0\PiggySoftwareSolutions.Common.AssemblyInfoInputs.cache
+E:\Projekty\PiggySoftwareSolutions\PiggySoftwareSolutions.Common\obj\Debug\net6.0\PiggySoftwareSolutions.Common.AssemblyInfo.cs
+E:\Projekty\PiggySoftwareSolutions\PiggySoftwareSolutions.Common\obj\Debug\net6.0\PiggySoftwareSolutions.Common.csproj.CoreCompileInputs.cache
+E:\Projekty\PiggySoftwareSolutions\PiggySoftwareSolutions.Common\obj\Debug\net6.0\PiggySoftwareSolutions.Common.dll
+E:\Projekty\PiggySoftwareSolutions\PiggySoftwareSolutions.Common\obj\Debug\net6.0\refint\PiggySoftwareSolutions.Common.dll
+E:\Projekty\PiggySoftwareSolutions\PiggySoftwareSolutions.Common\obj\Debug\net6.0\PiggySoftwareSolutions.Common.pdb
+E:\Projekty\PiggySoftwareSolutions\PiggySoftwareSolutions.Common\obj\Debug\net6.0\ref\PiggySoftwareSolutions.Common.dll

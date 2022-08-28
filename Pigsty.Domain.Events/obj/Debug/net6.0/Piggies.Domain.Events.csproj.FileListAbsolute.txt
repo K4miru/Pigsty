@@ -1,0 +1,15 @@
+E:\Projekty\Piggies\Piggies.Domain.Events\obj\Debug\net6.0\Piggies.Domain.Events.csproj.AssemblyReference.cache
+E:\Projekty\Piggies\Piggies.Domain.Events\obj\Debug\net6.0\Piggies.Domain.Events.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekty\Piggies\Piggies.Domain.Events\obj\Debug\net6.0\Piggies.Domain.Events.AssemblyInfoInputs.cache
+E:\Projekty\Piggies\Piggies.Domain.Events\obj\Debug\net6.0\Piggies.Domain.Events.AssemblyInfo.cs
+E:\Projekty\Piggies\Piggies.Domain.Events\obj\Debug\net6.0\Piggies.Domain.Events.csproj.CoreCompileInputs.cache
+E:\Projekty\Piggies\Piggies.Domain.Events\bin\Debug\net6.0\Piggies.Domain.Events.deps.json
+E:\Projekty\Piggies\Piggies.Domain.Events\bin\Debug\net6.0\Piggies.Domain.Events.dll
+E:\Projekty\Piggies\Piggies.Domain.Events\bin\Debug\net6.0\Piggies.Domain.Events.pdb
+E:\Projekty\Piggies\Piggies.Domain.Events\bin\Debug\net6.0\Piggies.Dispatcher.dll
+E:\Projekty\Piggies\Piggies.Domain.Events\bin\Debug\net6.0\Piggies.Dispatcher.pdb
+E:\Projekty\Piggies\Piggies.Domain.Events\obj\Debug\net6.0\Piggies.Domain.Events.csproj.CopyComplete
+E:\Projekty\Piggies\Piggies.Domain.Events\obj\Debug\net6.0\Piggies.Domain.Events.dll
+E:\Projekty\Piggies\Piggies.Domain.Events\obj\Debug\net6.0\refint\Piggies.Domain.Events.dll
+E:\Projekty\Piggies\Piggies.Domain.Events\obj\Debug\net6.0\Piggies.Domain.Events.pdb
+E:\Projekty\Piggies\Piggies.Domain.Events\obj\Debug\net6.0\ref\Piggies.Domain.Events.dll

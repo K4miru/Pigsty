@@ -1,0 +1,224 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projekty\\Pigsty\\Pigsty.Documentation\\Pigsty.Documentation.csproj": {}
+  },
+  "projects": {
+    "E:\\Projekty\\Pigsty\\Pigsty.Dispatcher\\Pigsty.Dispatcher.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projekty\\Pigsty\\Pigsty.Dispatcher\\Pigsty.Dispatcher.csproj",
+        "projectName": "Pigsty.Dispatcher",
+        "projectPath": "E:\\Projekty\\Pigsty\\Pigsty.Dispatcher\\Pigsty.Dispatcher.csproj",
+        "packagesPath": "C:\\Users\\k4mir\\.nuget\\packages\\",
+        "outputPath": "E:\\Projekty\\Pigsty\\Pigsty.Dispatcher\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\k4mir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projekty\\Pigsty\\Pigsty.Documentation\\Pigsty.Documentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projekty\\Pigsty\\Pigsty.Documentation\\Pigsty.Documentation.csproj",
+        "projectName": "Pigsty.Documentation",
+        "projectPath": "E:\\Projekty\\Pigsty\\Pigsty.Documentation\\Pigsty.Documentation.csproj",
+        "packagesPath": "C:\\Users\\k4mir\\.nuget\\packages\\",
+        "outputPath": "E:\\Projekty\\Pigsty\\Pigsty.Documentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\k4mir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Projekty\\Pigsty\\Pigsty.Events\\Pigsty.Events.csproj": {
+                "projectPath": "E:\\Projekty\\Pigsty\\Pigsty.Events\\Pigsty.Events.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Routing": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[13.16.1, )"
+            },
+            "NSwag.Generation": {
+              "target": "Package",
+              "version": "[13.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projekty\\Pigsty\\Pigsty.Events\\Pigsty.Events.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projekty\\Pigsty\\Pigsty.Events\\Pigsty.Events.csproj",
+        "projectName": "Pigsty.Events",
+        "projectPath": "E:\\Projekty\\Pigsty\\Pigsty.Events\\Pigsty.Events.csproj",
+        "packagesPath": "C:\\Users\\k4mir\\.nuget\\packages\\",
+        "outputPath": "E:\\Projekty\\Pigsty\\Pigsty.Events\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\k4mir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Projekty\\Pigsty\\Pigsty.Dispatcher\\Pigsty.Dispatcher.csproj": {
+                "projectPath": "E:\\Projekty\\Pigsty\\Pigsty.Dispatcher\\Pigsty.Dispatcher.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Scrutor": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

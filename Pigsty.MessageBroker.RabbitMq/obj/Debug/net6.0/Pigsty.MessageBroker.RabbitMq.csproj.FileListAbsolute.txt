@@ -1,0 +1,12 @@
+E:\Projekty\Pigsty\Pigsty.MessageBroker.RabbitMq\bin\Debug\net6.0\Pigsty.MessageBroker.RabbitMq.deps.json
+E:\Projekty\Pigsty\Pigsty.MessageBroker.RabbitMq\bin\Debug\net6.0\Pigsty.MessageBroker.RabbitMq.dll
+E:\Projekty\Pigsty\Pigsty.MessageBroker.RabbitMq\bin\Debug\net6.0\Pigsty.MessageBroker.RabbitMq.pdb
+E:\Projekty\Pigsty\Pigsty.MessageBroker.RabbitMq\obj\Debug\net6.0\Pigsty.MessageBroker.RabbitMq.csproj.AssemblyReference.cache
+E:\Projekty\Pigsty\Pigsty.MessageBroker.RabbitMq\obj\Debug\net6.0\Pigsty.MessageBroker.RabbitMq.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekty\Pigsty\Pigsty.MessageBroker.RabbitMq\obj\Debug\net6.0\Pigsty.MessageBroker.RabbitMq.AssemblyInfoInputs.cache
+E:\Projekty\Pigsty\Pigsty.MessageBroker.RabbitMq\obj\Debug\net6.0\Pigsty.MessageBroker.RabbitMq.AssemblyInfo.cs
+E:\Projekty\Pigsty\Pigsty.MessageBroker.RabbitMq\obj\Debug\net6.0\Pigsty.MessageBroker.RabbitMq.csproj.CoreCompileInputs.cache
+E:\Projekty\Pigsty\Pigsty.MessageBroker.RabbitMq\obj\Debug\net6.0\Pigsty.MessageBroker.RabbitMq.dll
+E:\Projekty\Pigsty\Pigsty.MessageBroker.RabbitMq\obj\Debug\net6.0\refint\Pigsty.MessageBroker.RabbitMq.dll
+E:\Projekty\Pigsty\Pigsty.MessageBroker.RabbitMq\obj\Debug\net6.0\Pigsty.MessageBroker.RabbitMq.pdb
+E:\Projekty\Pigsty\Pigsty.MessageBroker.RabbitMq\obj\Debug\net6.0\ref\Pigsty.MessageBroker.RabbitMq.dll

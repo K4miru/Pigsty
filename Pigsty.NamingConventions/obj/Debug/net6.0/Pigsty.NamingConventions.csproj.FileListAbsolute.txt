@@ -1,0 +1,12 @@
+E:\Projekty\Pigsty\Pigsty.NamingConventions\bin\Debug\net6.0\Pigsty.NamingConventions.deps.json
+E:\Projekty\Pigsty\Pigsty.NamingConventions\bin\Debug\net6.0\Pigsty.NamingConventions.dll
+E:\Projekty\Pigsty\Pigsty.NamingConventions\bin\Debug\net6.0\Pigsty.NamingConventions.pdb
+E:\Projekty\Pigsty\Pigsty.NamingConventions\obj\Debug\net6.0\Pigsty.NamingConventions.csproj.AssemblyReference.cache
+E:\Projekty\Pigsty\Pigsty.NamingConventions\obj\Debug\net6.0\Pigsty.NamingConventions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekty\Pigsty\Pigsty.NamingConventions\obj\Debug\net6.0\Pigsty.NamingConventions.AssemblyInfoInputs.cache
+E:\Projekty\Pigsty\Pigsty.NamingConventions\obj\Debug\net6.0\Pigsty.NamingConventions.AssemblyInfo.cs
+E:\Projekty\Pigsty\Pigsty.NamingConventions\obj\Debug\net6.0\Pigsty.NamingConventions.csproj.CoreCompileInputs.cache
+E:\Projekty\Pigsty\Pigsty.NamingConventions\obj\Debug\net6.0\Pigsty.NamingConventions.dll
+E:\Projekty\Pigsty\Pigsty.NamingConventions\obj\Debug\net6.0\refint\Pigsty.NamingConventions.dll
+E:\Projekty\Pigsty\Pigsty.NamingConventions\obj\Debug\net6.0\Pigsty.NamingConventions.pdb
+E:\Projekty\Pigsty\Pigsty.NamingConventions\obj\Debug\net6.0\ref\Pigsty.NamingConventions.dll

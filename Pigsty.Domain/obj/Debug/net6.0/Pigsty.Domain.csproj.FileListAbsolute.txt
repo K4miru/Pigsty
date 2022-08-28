@@ -1,0 +1,17 @@
+E:\Projekty\Pigsty\Pigsty.Domain\bin\Debug\net6.0\Pigsty.Domain.deps.json
+E:\Projekty\Pigsty\Pigsty.Domain\bin\Debug\net6.0\Pigsty.Domain.dll
+E:\Projekty\Pigsty\Pigsty.Domain\bin\Debug\net6.0\Pigsty.Domain.pdb
+E:\Projekty\Pigsty\Pigsty.Domain\bin\Debug\net6.0\Pigsty.Dispatcher.dll
+E:\Projekty\Pigsty\Pigsty.Domain\bin\Debug\net6.0\Pigsty.Domain.Events.dll
+E:\Projekty\Pigsty\Pigsty.Domain\bin\Debug\net6.0\Pigsty.Domain.Events.pdb
+E:\Projekty\Pigsty\Pigsty.Domain\bin\Debug\net6.0\Pigsty.Dispatcher.pdb
+E:\Projekty\Pigsty\Pigsty.Domain\obj\Debug\net6.0\Pigsty.Domain.csproj.AssemblyReference.cache
+E:\Projekty\Pigsty\Pigsty.Domain\obj\Debug\net6.0\Pigsty.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekty\Pigsty\Pigsty.Domain\obj\Debug\net6.0\Pigsty.Domain.AssemblyInfoInputs.cache
+E:\Projekty\Pigsty\Pigsty.Domain\obj\Debug\net6.0\Pigsty.Domain.AssemblyInfo.cs
+E:\Projekty\Pigsty\Pigsty.Domain\obj\Debug\net6.0\Pigsty.Domain.csproj.CoreCompileInputs.cache
+E:\Projekty\Pigsty\Pigsty.Domain\obj\Debug\net6.0\Pigsty.Domain.csproj.CopyComplete
+E:\Projekty\Pigsty\Pigsty.Domain\obj\Debug\net6.0\Pigsty.Domain.dll
+E:\Projekty\Pigsty\Pigsty.Domain\obj\Debug\net6.0\refint\Pigsty.Domain.dll
+E:\Projekty\Pigsty\Pigsty.Domain\obj\Debug\net6.0\Pigsty.Domain.pdb
+E:\Projekty\Pigsty\Pigsty.Domain\obj\Debug\net6.0\ref\Pigsty.Domain.dll

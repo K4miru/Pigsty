@@ -1,0 +1,12 @@
+E:\Projekty\Piggies\Piggies.MessageBroker.RabbitMq\bin\Debug\net6.0\Piggies.MessageBroker.RabbitMq.deps.json
+E:\Projekty\Piggies\Piggies.MessageBroker.RabbitMq\bin\Debug\net6.0\Piggies.MessageBroker.RabbitMq.dll
+E:\Projekty\Piggies\Piggies.MessageBroker.RabbitMq\bin\Debug\net6.0\Piggies.MessageBroker.RabbitMq.pdb
+E:\Projekty\Piggies\Piggies.MessageBroker.RabbitMq\obj\Debug\net6.0\Piggies.MessageBroker.RabbitMq.csproj.AssemblyReference.cache
+E:\Projekty\Piggies\Piggies.MessageBroker.RabbitMq\obj\Debug\net6.0\Piggies.MessageBroker.RabbitMq.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekty\Piggies\Piggies.MessageBroker.RabbitMq\obj\Debug\net6.0\Piggies.MessageBroker.RabbitMq.AssemblyInfoInputs.cache
+E:\Projekty\Piggies\Piggies.MessageBroker.RabbitMq\obj\Debug\net6.0\Piggies.MessageBroker.RabbitMq.AssemblyInfo.cs
+E:\Projekty\Piggies\Piggies.MessageBroker.RabbitMq\obj\Debug\net6.0\Piggies.MessageBroker.RabbitMq.csproj.CoreCompileInputs.cache
+E:\Projekty\Piggies\Piggies.MessageBroker.RabbitMq\obj\Debug\net6.0\Piggies.MessageBroker.RabbitMq.dll
+E:\Projekty\Piggies\Piggies.MessageBroker.RabbitMq\obj\Debug\net6.0\refint\Piggies.MessageBroker.RabbitMq.dll
+E:\Projekty\Piggies\Piggies.MessageBroker.RabbitMq\obj\Debug\net6.0\Piggies.MessageBroker.RabbitMq.pdb
+E:\Projekty\Piggies\Piggies.MessageBroker.RabbitMq\obj\Debug\net6.0\ref\Piggies.MessageBroker.RabbitMq.dll

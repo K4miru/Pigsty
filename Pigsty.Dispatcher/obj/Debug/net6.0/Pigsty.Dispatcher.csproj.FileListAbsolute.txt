@@ -1,0 +1,12 @@
+E:\Projekty\Pigsty\Pigsty.Dispatcher\bin\Debug\net6.0\Pigsty.Dispatcher.deps.json
+E:\Projekty\Pigsty\Pigsty.Dispatcher\bin\Debug\net6.0\Pigsty.Dispatcher.dll
+E:\Projekty\Pigsty\Pigsty.Dispatcher\bin\Debug\net6.0\Pigsty.Dispatcher.pdb
+E:\Projekty\Pigsty\Pigsty.Dispatcher\obj\Debug\net6.0\Pigsty.Dispatcher.csproj.AssemblyReference.cache
+E:\Projekty\Pigsty\Pigsty.Dispatcher\obj\Debug\net6.0\Pigsty.Dispatcher.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekty\Pigsty\Pigsty.Dispatcher\obj\Debug\net6.0\Pigsty.Dispatcher.AssemblyInfoInputs.cache
+E:\Projekty\Pigsty\Pigsty.Dispatcher\obj\Debug\net6.0\Pigsty.Dispatcher.AssemblyInfo.cs
+E:\Projekty\Pigsty\Pigsty.Dispatcher\obj\Debug\net6.0\Pigsty.Dispatcher.csproj.CoreCompileInputs.cache
+E:\Projekty\Pigsty\Pigsty.Dispatcher\obj\Debug\net6.0\Pigsty.Dispatcher.dll
+E:\Projekty\Pigsty\Pigsty.Dispatcher\obj\Debug\net6.0\refint\Pigsty.Dispatcher.dll
+E:\Projekty\Pigsty\Pigsty.Dispatcher\obj\Debug\net6.0\Pigsty.Dispatcher.pdb
+E:\Projekty\Pigsty\Pigsty.Dispatcher\obj\Debug\net6.0\ref\Pigsty.Dispatcher.dll

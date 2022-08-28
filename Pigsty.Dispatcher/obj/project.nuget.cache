@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "R8Cf2ynxBIQhpNRkp4wr5/nH2kirk32my1tyjGct2RXvXSkFGQ2M/9QNv0F2yELNNSP/edfx/c2sECv/6WFobg==",
+  "success": true,
+  "projectFilePath": "E:\\Projekty\\Pigsty\\Pigsty.Dispatcher\\Pigsty.Dispatcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\k4mir\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\k4mir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\k4mir\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+E:\Projekty\Piggies\Piggies.NamingConventions\bin\Debug\net6.0\Piggies.NamingConventions.deps.json
+E:\Projekty\Piggies\Piggies.NamingConventions\bin\Debug\net6.0\Piggies.NamingConventions.dll
+E:\Projekty\Piggies\Piggies.NamingConventions\bin\Debug\net6.0\Piggies.NamingConventions.pdb
+E:\Projekty\Piggies\Piggies.NamingConventions\obj\Debug\net6.0\Piggies.NamingConventions.csproj.AssemblyReference.cache
+E:\Projekty\Piggies\Piggies.NamingConventions\obj\Debug\net6.0\Piggies.NamingConventions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekty\Piggies\Piggies.NamingConventions\obj\Debug\net6.0\Piggies.NamingConventions.AssemblyInfoInputs.cache
+E:\Projekty\Piggies\Piggies.NamingConventions\obj\Debug\net6.0\Piggies.NamingConventions.AssemblyInfo.cs
+E:\Projekty\Piggies\Piggies.NamingConventions\obj\Debug\net6.0\Piggies.NamingConventions.csproj.CoreCompileInputs.cache
+E:\Projekty\Piggies\Piggies.NamingConventions\obj\Debug\net6.0\Piggies.NamingConventions.dll
+E:\Projekty\Piggies\Piggies.NamingConventions\obj\Debug\net6.0\refint\Piggies.NamingConventions.dll
+E:\Projekty\Piggies\Piggies.NamingConventions\obj\Debug\net6.0\Piggies.NamingConventions.pdb
+E:\Projekty\Piggies\Piggies.NamingConventions\obj\Debug\net6.0\ref\Piggies.NamingConventions.dll

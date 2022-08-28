@@ -1,0 +1,12 @@
+E:\Projekty\Piggies\Piggies.HealthChecks\obj\Debug\net6.0\Piggies.HealthChecks.csproj.AssemblyReference.cache
+E:\Projekty\Piggies\Piggies.HealthChecks\obj\Debug\net6.0\Piggies.HealthChecks.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekty\Piggies\Piggies.HealthChecks\obj\Debug\net6.0\Piggies.HealthChecks.AssemblyInfoInputs.cache
+E:\Projekty\Piggies\Piggies.HealthChecks\obj\Debug\net6.0\Piggies.HealthChecks.AssemblyInfo.cs
+E:\Projekty\Piggies\Piggies.HealthChecks\obj\Debug\net6.0\Piggies.HealthChecks.csproj.CoreCompileInputs.cache
+E:\Projekty\Piggies\Piggies.HealthChecks\bin\Debug\net6.0\Piggies.HealthChecks.deps.json
+E:\Projekty\Piggies\Piggies.HealthChecks\bin\Debug\net6.0\Piggies.HealthChecks.dll
+E:\Projekty\Piggies\Piggies.HealthChecks\bin\Debug\net6.0\Piggies.HealthChecks.pdb
+E:\Projekty\Piggies\Piggies.HealthChecks\obj\Debug\net6.0\Piggies.HealthChecks.dll
+E:\Projekty\Piggies\Piggies.HealthChecks\obj\Debug\net6.0\refint\Piggies.HealthChecks.dll
+E:\Projekty\Piggies\Piggies.HealthChecks\obj\Debug\net6.0\Piggies.HealthChecks.pdb
+E:\Projekty\Piggies\Piggies.HealthChecks\obj\Debug\net6.0\ref\Piggies.HealthChecks.dll

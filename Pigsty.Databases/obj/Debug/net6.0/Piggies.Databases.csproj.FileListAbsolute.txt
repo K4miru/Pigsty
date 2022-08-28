@@ -1,0 +1,12 @@
+E:\Projekty\Piggies\Piggies.Databases\obj\Debug\net6.0\Piggies.Databases.csproj.AssemblyReference.cache
+E:\Projekty\Piggies\Piggies.Databases\obj\Debug\net6.0\Piggies.Databases.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekty\Piggies\Piggies.Databases\obj\Debug\net6.0\Piggies.Databases.AssemblyInfoInputs.cache
+E:\Projekty\Piggies\Piggies.Databases\obj\Debug\net6.0\Piggies.Databases.AssemblyInfo.cs
+E:\Projekty\Piggies\Piggies.Databases\obj\Debug\net6.0\Piggies.Databases.csproj.CoreCompileInputs.cache
+E:\Projekty\Piggies\Piggies.Databases\bin\Debug\net6.0\Piggies.Databases.deps.json
+E:\Projekty\Piggies\Piggies.Databases\bin\Debug\net6.0\Piggies.Databases.dll
+E:\Projekty\Piggies\Piggies.Databases\bin\Debug\net6.0\Piggies.Databases.pdb
+E:\Projekty\Piggies\Piggies.Databases\obj\Debug\net6.0\Piggies.Databases.dll
+E:\Projekty\Piggies\Piggies.Databases\obj\Debug\net6.0\refint\Piggies.Databases.dll
+E:\Projekty\Piggies\Piggies.Databases\obj\Debug\net6.0\Piggies.Databases.pdb
+E:\Projekty\Piggies\Piggies.Databases\obj\Debug\net6.0\ref\Piggies.Databases.dll

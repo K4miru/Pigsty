@@ -1,0 +1,12 @@
+E:\Projekty\Pigsty\Pigsty.HealthChecks\bin\Debug\net6.0\Pigsty.HealthChecks.deps.json
+E:\Projekty\Pigsty\Pigsty.HealthChecks\bin\Debug\net6.0\Pigsty.HealthChecks.dll
+E:\Projekty\Pigsty\Pigsty.HealthChecks\bin\Debug\net6.0\Pigsty.HealthChecks.pdb
+E:\Projekty\Pigsty\Pigsty.HealthChecks\obj\Debug\net6.0\Pigsty.HealthChecks.csproj.AssemblyReference.cache
+E:\Projekty\Pigsty\Pigsty.HealthChecks\obj\Debug\net6.0\Pigsty.HealthChecks.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekty\Pigsty\Pigsty.HealthChecks\obj\Debug\net6.0\Pigsty.HealthChecks.AssemblyInfoInputs.cache
+E:\Projekty\Pigsty\Pigsty.HealthChecks\obj\Debug\net6.0\Pigsty.HealthChecks.AssemblyInfo.cs
+E:\Projekty\Pigsty\Pigsty.HealthChecks\obj\Debug\net6.0\Pigsty.HealthChecks.csproj.CoreCompileInputs.cache
+E:\Projekty\Pigsty\Pigsty.HealthChecks\obj\Debug\net6.0\Pigsty.HealthChecks.dll
+E:\Projekty\Pigsty\Pigsty.HealthChecks\obj\Debug\net6.0\refint\Pigsty.HealthChecks.dll
+E:\Projekty\Pigsty\Pigsty.HealthChecks\obj\Debug\net6.0\Pigsty.HealthChecks.pdb
+E:\Projekty\Pigsty\Pigsty.HealthChecks\obj\Debug\net6.0\ref\Pigsty.HealthChecks.dll

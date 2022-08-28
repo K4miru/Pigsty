@@ -1,0 +1,12 @@
+E:\Projekty\Pigsty\Pigsty.Databases\bin\Debug\net6.0\Pigsty.Databases.deps.json
+E:\Projekty\Pigsty\Pigsty.Databases\bin\Debug\net6.0\Pigsty.Databases.dll
+E:\Projekty\Pigsty\Pigsty.Databases\bin\Debug\net6.0\Pigsty.Databases.pdb
+E:\Projekty\Pigsty\Pigsty.Databases\obj\Debug\net6.0\Pigsty.Databases.csproj.AssemblyReference.cache
+E:\Projekty\Pigsty\Pigsty.Databases\obj\Debug\net6.0\Pigsty.Databases.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekty\Pigsty\Pigsty.Databases\obj\Debug\net6.0\Pigsty.Databases.AssemblyInfoInputs.cache
+E:\Projekty\Pigsty\Pigsty.Databases\obj\Debug\net6.0\Pigsty.Databases.AssemblyInfo.cs
+E:\Projekty\Pigsty\Pigsty.Databases\obj\Debug\net6.0\Pigsty.Databases.csproj.CoreCompileInputs.cache
+E:\Projekty\Pigsty\Pigsty.Databases\obj\Debug\net6.0\Pigsty.Databases.dll
+E:\Projekty\Pigsty\Pigsty.Databases\obj\Debug\net6.0\refint\Pigsty.Databases.dll
+E:\Projekty\Pigsty\Pigsty.Databases\obj\Debug\net6.0\Pigsty.Databases.pdb
+E:\Projekty\Pigsty\Pigsty.Databases\obj\Debug\net6.0\ref\Pigsty.Databases.dll

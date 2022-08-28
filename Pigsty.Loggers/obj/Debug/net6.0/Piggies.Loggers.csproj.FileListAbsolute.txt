@@ -1,0 +1,12 @@
+E:\Projekty\Piggies\Piggies.Loggers\bin\Debug\net6.0\Piggies.Loggers.deps.json
+E:\Projekty\Piggies\Piggies.Loggers\bin\Debug\net6.0\Piggies.Loggers.dll
+E:\Projekty\Piggies\Piggies.Loggers\bin\Debug\net6.0\Piggies.Loggers.pdb
+E:\Projekty\Piggies\Piggies.Loggers\obj\Debug\net6.0\Piggies.Loggers.csproj.AssemblyReference.cache
+E:\Projekty\Piggies\Piggies.Loggers\obj\Debug\net6.0\Piggies.Loggers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekty\Piggies\Piggies.Loggers\obj\Debug\net6.0\Piggies.Loggers.AssemblyInfoInputs.cache
+E:\Projekty\Piggies\Piggies.Loggers\obj\Debug\net6.0\Piggies.Loggers.AssemblyInfo.cs
+E:\Projekty\Piggies\Piggies.Loggers\obj\Debug\net6.0\Piggies.Loggers.csproj.CoreCompileInputs.cache
+E:\Projekty\Piggies\Piggies.Loggers\obj\Debug\net6.0\Piggies.Loggers.dll
+E:\Projekty\Piggies\Piggies.Loggers\obj\Debug\net6.0\refint\Piggies.Loggers.dll
+E:\Projekty\Piggies\Piggies.Loggers\obj\Debug\net6.0\Piggies.Loggers.pdb
+E:\Projekty\Piggies\Piggies.Loggers\obj\Debug\net6.0\ref\Piggies.Loggers.dll
